@@ -12,5 +12,4 @@ public class VideoStreamingController {
         System.out.println("I have request");
         return ResponseEntity.ok("I am done");
     }
-
 }
